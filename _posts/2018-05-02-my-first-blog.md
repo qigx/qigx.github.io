@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 随手记
+title: 金句
 key: 20180502
 tags: blog
 ---
-### 先把搭建blog的坑记录一下吧
-
-* fork之后再改名myName.github.io,一直不好用，没办法只好create一个仓库，不知什么原因。
+* 君子和而不同 小人同而不和
