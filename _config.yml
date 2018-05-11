@@ -58,8 +58,9 @@ toc:
   # selectors: 'h1,h2,h3'
 
 ## Comment system (Disqus) ##
-disqus: qigx
-  # shortname:  #the Disqus shortname for the site
+disqus: 
+  shortname:  qigx
+  #the Disqus shortname for the site
 
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
