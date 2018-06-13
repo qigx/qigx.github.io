@@ -4,7 +4,7 @@ title: Git Commit规范
 key: 20180516
 tags: git
 ---
-#### Commit Message 格式
+#### it Commit Message 格式
 
 ```
 <type>(<scope>): <subject>
