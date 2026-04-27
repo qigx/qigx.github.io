@@ -26,7 +26,7 @@ services:
     container_name: vaultwarden
     restart: always
     environment:
-      DOMAIN: "https://qigx001.mynetgear.com"
+      DOMAIN: "https://xxxx001.mynetgear.com"
       SIGNUPS_ALLOWED: "true"
     volumes:
       - ./vw-data:/data
@@ -44,8 +44,8 @@ services:
       - ./caddy-config:/config
       - ./caddy-data:/data
     environment:
-      DOMAIN: "https://qigx001.mynetgear.com"
-      EMAIL: "qigx@hotmail.com"
+      DOMAIN: "https://xxxx001.mynetgear.com"
+      EMAIL: "xxxx@hotmail.com"
       LOG_FILE: "/data/access.log"
 ```
 
